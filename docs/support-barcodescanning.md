@@ -1,7 +1,0 @@
-# Bar Code Scanning
-
-
-
-
-
-

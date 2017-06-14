@@ -1,6 +1,0 @@
-# Terminal Discovery
-
-
-
-
-

@@ -1,6 +1,0 @@
-# Receipt Printing
-
-
-
-
-
